@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dhara\\source\\repos\\ParentApp\\ParentApp\\ParentApp.UWP\\ParentApp.UWP.csproj": {}
+    "C:\\Users\\dhara\\OneDrive\\Documents\\Github\\AGM\\Views\\ParentApp\\ParentApp\\ParentApp.UWP\\ParentApp.UWP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dhara\\source\\repos\\ParentApp\\ParentApp\\ParentApp.UWP\\ParentApp.UWP.csproj": {
+    "C:\\Users\\dhara\\OneDrive\\Documents\\Github\\AGM\\Views\\ParentApp\\ParentApp\\ParentApp.UWP\\ParentApp.UWP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dhara\\source\\repos\\ParentApp\\ParentApp\\ParentApp.UWP\\ParentApp.UWP.csproj",
+        "projectUniqueName": "C:\\Users\\dhara\\OneDrive\\Documents\\Github\\AGM\\Views\\ParentApp\\ParentApp\\ParentApp.UWP\\ParentApp.UWP.csproj",
         "projectName": "ParentApp.UWP",
-        "projectPath": "C:\\Users\\dhara\\source\\repos\\ParentApp\\ParentApp\\ParentApp.UWP\\ParentApp.UWP.csproj",
+        "projectPath": "C:\\Users\\dhara\\OneDrive\\Documents\\Github\\AGM\\Views\\ParentApp\\ParentApp\\ParentApp.UWP\\ParentApp.UWP.csproj",
         "packagesPath": "C:\\Users\\dhara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dhara\\source\\repos\\ParentApp\\ParentApp\\ParentApp.UWP\\obj\\",
+        "outputPath": "C:\\Users\\dhara\\OneDrive\\Documents\\Github\\AGM\\Views\\ParentApp\\ParentApp\\ParentApp.UWP\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -36,8 +36,8 @@
         "frameworks": {
           "uap10.0.16299": {
             "projectReferences": {
-              "C:\\Users\\dhara\\source\\repos\\ParentApp\\ParentApp\\ParentApp\\ParentApp.csproj": {
-                "projectPath": "C:\\Users\\dhara\\source\\repos\\ParentApp\\ParentApp\\ParentApp\\ParentApp.csproj"
+              "C:\\Users\\dhara\\OneDrive\\Documents\\Github\\AGM\\Views\\ParentApp\\ParentApp\\ParentApp\\ParentApp.csproj": {
+                "projectPath": "C:\\Users\\dhara\\OneDrive\\Documents\\Github\\AGM\\Views\\ParentApp\\ParentApp\\ParentApp\\ParentApp.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "C:\\Users\\dhara\\source\\repos\\ParentApp\\ParentApp\\ParentApp\\ParentApp.csproj": {
+    "C:\\Users\\dhara\\OneDrive\\Documents\\Github\\AGM\\Views\\ParentApp\\ParentApp\\ParentApp\\ParentApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dhara\\source\\repos\\ParentApp\\ParentApp\\ParentApp\\ParentApp.csproj",
+        "projectUniqueName": "C:\\Users\\dhara\\OneDrive\\Documents\\Github\\AGM\\Views\\ParentApp\\ParentApp\\ParentApp\\ParentApp.csproj",
         "projectName": "ParentApp",
-        "projectPath": "C:\\Users\\dhara\\source\\repos\\ParentApp\\ParentApp\\ParentApp\\ParentApp.csproj",
+        "projectPath": "C:\\Users\\dhara\\OneDrive\\Documents\\Github\\AGM\\Views\\ParentApp\\ParentApp\\ParentApp\\ParentApp.csproj",
         "packagesPath": "C:\\Users\\dhara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dhara\\source\\repos\\ParentApp\\ParentApp\\ParentApp\\obj\\",
+        "outputPath": "C:\\Users\\dhara\\OneDrive\\Documents\\Github\\AGM\\Views\\ParentApp\\ParentApp\\ParentApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

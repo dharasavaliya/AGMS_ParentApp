@@ -2490,11 +2490,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dhara\\source\\repos\\ParentApp\\ParentApp\\ParentApp.Android\\ParentApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\dhara\\OneDrive\\Documents\\Github\\AGM\\Views\\ParentApp\\ParentApp\\ParentApp.Android\\ParentApp.Android.csproj",
       "projectName": "ParentApp.Android",
-      "projectPath": "C:\\Users\\dhara\\source\\repos\\ParentApp\\ParentApp\\ParentApp.Android\\ParentApp.Android.csproj",
+      "projectPath": "C:\\Users\\dhara\\OneDrive\\Documents\\Github\\AGM\\Views\\ParentApp\\ParentApp\\ParentApp.Android\\ParentApp.Android.csproj",
       "packagesPath": "C:\\Users\\dhara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dhara\\source\\repos\\ParentApp\\ParentApp\\ParentApp.Android\\obj\\",
+      "outputPath": "C:\\Users\\dhara\\OneDrive\\Documents\\Github\\AGM\\Views\\ParentApp\\ParentApp\\ParentApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2518,8 +2518,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\dhara\\source\\repos\\ParentApp\\ParentApp\\ParentApp\\ParentApp.csproj": {
-              "projectPath": "C:\\Users\\dhara\\source\\repos\\ParentApp\\ParentApp\\ParentApp\\ParentApp.csproj"
+            "C:\\Users\\dhara\\OneDrive\\Documents\\Github\\AGM\\Views\\ParentApp\\ParentApp\\ParentApp\\ParentApp.csproj": {
+              "projectPath": "C:\\Users\\dhara\\OneDrive\\Documents\\Github\\AGM\\Views\\ParentApp\\ParentApp\\ParentApp\\ParentApp.csproj"
             }
           }
         }

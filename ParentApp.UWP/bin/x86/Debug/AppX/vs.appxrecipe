@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=9a6da478-15b8-4e26-84cb-203ce6798bce</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>76236F3B2434D77653713C29B747131D0A1076E583651BA013B9AC5879845F49</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>e8236967-9153-46b0-a068-f897ee4111a5_1.0.0.0_x86__64ffcbtmy3cyt</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>e8236967-9153-46b0-a068-f897ee4111a5_64ffcbtmy3cyt!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-10-12T18:53:31.032</Modified>
+      <Modified>2019-10-12T20:47:48.098</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\bin\x86\Debug\ParentApp.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\bin\x86\Debug\ParentApp.UWP.exe">
       <PackagePath>entrypoint\ParentApp.UWP.exe</PackagePath>
-      <Modified>2019-10-12T18:53:29.083</Modified>
+      <Modified>2019-10-12T20:47:42.219</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dhara\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.9\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -846,164 +846,164 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2019-09-28T02:08:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp\bin\Debug\netstandard2.0\ParentApp.dll">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp\bin\Debug\netstandard2.0\ParentApp.dll">
       <PackagePath>ParentApp.dll</PackagePath>
-      <Modified>2019-10-12T18:53:18.883</Modified>
+      <Modified>2019-10-12T20:47:27.618</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dhara\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
       <Modified>2016-11-30T07:58:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:39.882</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:39.886</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:39.891</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:39.944</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:39.948</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:39.951</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:39.956</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:40.012</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:40.016</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:40.021</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:40.023</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:40.086</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:40.089</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:40.092</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:40.096</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:40.158</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:40.161</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:40.165</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:40.170</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:40.223</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:40.226</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:40.231</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:40.291</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:40.294</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:40.297</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:40.299</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-10-12T16:06:40.358</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2019-10-12T16:06:40.366</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\bin\x86\Debug\ParentApp.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\bin\x86\Debug\ParentApp.UWP.xr.xml">
       <PackagePath>ParentApp.UWP.xr.xml</PackagePath>
       <Modified>2019-10-12T16:07:51.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-10-12T18:53:27.930</Modified>
+      <Modified>2019-10-12T20:47:40.938</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-10-12T18:53:27.931</Modified>
+      <Modified>2019-10-12T20:47:40.938</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -1181,13 +1181,13 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
       <Modified>2019-09-28T02:08:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-10-12T17:06:46.687</Modified>
+      <Modified>2019-10-12T20:47:45.783</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\bin\x86\Debug\Core\ParentApp.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\bin\x86\Debug\Core\ParentApp.UWP.exe">
       <PackagePath>ParentApp.UWP.exe</PackagePath>
-      <Modified>2019-10-12T18:53:31.024</Modified>
+      <Modified>2019-10-12T20:47:48.085</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

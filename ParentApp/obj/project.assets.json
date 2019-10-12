@@ -977,11 +977,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dhara\\source\\repos\\ParentApp\\ParentApp\\ParentApp\\ParentApp.csproj",
+      "projectUniqueName": "C:\\Users\\dhara\\OneDrive\\Documents\\Github\\AGM\\Views\\ParentApp\\ParentApp\\ParentApp\\ParentApp.csproj",
       "projectName": "ParentApp",
-      "projectPath": "C:\\Users\\dhara\\source\\repos\\ParentApp\\ParentApp\\ParentApp\\ParentApp.csproj",
+      "projectPath": "C:\\Users\\dhara\\OneDrive\\Documents\\Github\\AGM\\Views\\ParentApp\\ParentApp\\ParentApp\\ParentApp.csproj",
       "packagesPath": "C:\\Users\\dhara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dhara\\source\\repos\\ParentApp\\ParentApp\\ParentApp\\obj\\",
+      "outputPath": "C:\\Users\\dhara\\OneDrive\\Documents\\Github\\AGM\\Views\\ParentApp\\ParentApp\\ParentApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

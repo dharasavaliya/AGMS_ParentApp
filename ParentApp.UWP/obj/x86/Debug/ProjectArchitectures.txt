@@ -1,1 +1,1 @@
-C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\ParentApp.UWP.csproj;x86
+C:\Users\dhara\OneDrive\Documents\Github\AGM\Views\ParentApp\ParentApp\ParentApp.UWP\ParentApp.UWP.csproj;x86

@@ -20,7 +20,7 @@ xmlns:telerikInput="clr-namespace:Telerik.XamarinForms.Input;assembly=Telerik.Xa
                     <RowDefinition Height="10*" />
                     <RowDefinition Height="20*" />
                 </Grid.RowDefinitions>
-
+                <telerikInput:RadShapeRating ItemShape="{x:Static telerikInput:Geometries.Star}" x:Name="rating"/>
                 <Image x:Name="logo" Margin="20,20,20,20"
                         BackgroundColor="Snow"
                         HorizontalOptions="CenterAndExpand" 
@@ -43,7 +43,7 @@ xmlns:telerikInput="clr-namespace:Telerik.XamarinForms.Input;assembly=Telerik.Xa
                         WidthRequest="200" 
                         HeightRequest="60" />
             </Grid>
-            
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
