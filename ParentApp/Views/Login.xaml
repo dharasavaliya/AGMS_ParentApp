@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+xmlns:telerikInput="clr-namespace:Telerik.XamarinForms.Input;assembly=Telerik.XamarinForms.Input"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" 
+             x:Class="ParentApp.Views.Login">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="40*" />
+                    <RowDefinition Height="10*" />
+                    <RowDefinition Height="10*" />
+                    <RowDefinition Height="10*" />
+                    <RowDefinition Height="10*" />
+                    <RowDefinition Height="20*" />
+                </Grid.RowDefinitions>
+
+                <Image x:Name="logo" Margin="20,20,20,20"
+                        BackgroundColor="Snow"
+                        HorizontalOptions="CenterAndExpand" 
+                        VerticalOptions="CenterAndExpand" 
+                        WidthRequest="200" 
+                        HeightRequest="60" />
+                <telerikInput:RadEntry x:Name="username" Grid.Row="1"                    
+                    FontAttributes="Italic" TextColor="DarkGray" WatermarkText="Username " WatermarkTextColor="#6EA3FF" VerticalOptions="CenterAndExpand" 
+                    HorizontalOptions="CenterAndExpand" />
+                <telerikInput:RadEntry x:Name="password" Grid.Row="2"
+                     FontAttributes="Italic" TextColor="DarkGray" IsPassword="True"  
+                     VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+                <telerikInput:RadButton x:Name="loginbtn" Padding="20,20,20,20"
+                        Text="Logo" BorderColor="Snow" Clicked="loginClicked"
+                        BackgroundColor="MidnightBlue"
+                        TextColor="White"
+                        BorderThickness="1" 
+                        HorizontalContentAlignment="Center" 
+                        VerticalContentAlignment="Center" 
+                        WidthRequest="200" 
+                        HeightRequest="60" />
+            </Grid>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

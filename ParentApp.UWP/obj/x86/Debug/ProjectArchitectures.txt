@@ -1,0 +1,1 @@
+C:\Users\dhara\source\repos\ParentApp\ParentApp\ParentApp.UWP\ParentApp.UWP.csproj;x86

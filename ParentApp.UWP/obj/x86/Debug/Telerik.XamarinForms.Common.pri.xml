@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Telerik.XamarinForms.Common" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Telerik.XamarinForms.Common">
+				<ResourceMapSubtree name="Assets">
+					<ResourceMapSubtree name="Fonts">
+						<NamedResource name="telerikfont.ttf" uri="ms-resource://Telerik.XamarinForms.Common/Files/Telerik.XamarinForms.Common/Assets/Fonts/telerikfont.ttf">
+							<Candidate type="Path">
+								<Value>Telerik.XamarinForms.Common\Assets\Fonts\telerikfont.ttf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

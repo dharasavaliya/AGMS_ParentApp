@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Telerik.XamarinForms.ConversationalUI" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>200,300,150,100</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Telerik.XamarinForms.ConversationalUI">
+				<ResourceMapSubtree name="Assets">
+					<NamedResource name="TelerikChatAuthor.png" uri="ms-resource://Telerik.XamarinForms.ConversationalUI/Files/Telerik.XamarinForms.ConversationalUI/Assets/TelerikChatAuthor.png">
+						<Candidate qualifiers="Scale-300" isDefault="true" type="Path">
+							<Value>Telerik.XamarinForms.ConversationalUI\Assets\TelerikChatAuthor.scale-300.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Telerik.XamarinForms.ConversationalUI\Assets\TelerikChatAuthor.scale-200.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-150" isDefault="true" type="Path">
+							<Value>Telerik.XamarinForms.ConversationalUI\Assets\TelerikChatAuthor.scale-150.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+							<Value>Telerik.XamarinForms.ConversationalUI\Assets\TelerikChatAuthor.scale-100.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TelerikSendMessage.png" uri="ms-resource://Telerik.XamarinForms.ConversationalUI/Files/Telerik.XamarinForms.ConversationalUI/Assets/TelerikSendMessage.png">
+						<Candidate qualifiers="Scale-300" isDefault="true" type="Path">
+							<Value>Telerik.XamarinForms.ConversationalUI\Assets\TelerikSendMessage.scale-300.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Telerik.XamarinForms.ConversationalUI\Assets\TelerikSendMessage.scale-200.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-150" isDefault="true" type="Path">
+							<Value>Telerik.XamarinForms.ConversationalUI\Assets\TelerikSendMessage.scale-150.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+							<Value>Telerik.XamarinForms.ConversationalUI\Assets\TelerikSendMessage.scale-100.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TelerikTypingAuthors.png" uri="ms-resource://Telerik.XamarinForms.ConversationalUI/Files/Telerik.XamarinForms.ConversationalUI/Assets/TelerikTypingAuthors.png">
+						<Candidate qualifiers="Scale-300" isDefault="true" type="Path">
+							<Value>Telerik.XamarinForms.ConversationalUI\Assets\TelerikTypingAuthors.scale-300.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Telerik.XamarinForms.ConversationalUI\Assets\TelerikTypingAuthors.scale-200.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-150" isDefault="true" type="Path">
+							<Value>Telerik.XamarinForms.ConversationalUI\Assets\TelerikTypingAuthors.scale-150.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+							<Value>Telerik.XamarinForms.ConversationalUI\Assets\TelerikTypingAuthors.scale-100.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

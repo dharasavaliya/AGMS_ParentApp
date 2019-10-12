@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Telerik.XamarinForms.Primitives" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Telerik.XamarinForms.Primitives">
+				<NamedResource name="Telerik.XamarinForms.Primitives.xr.xml" uri="ms-resource://Telerik.XamarinForms.Primitives/Files/Telerik.XamarinForms.Primitives/Telerik.XamarinForms.Primitives.xr.xml">
+					<Candidate type="Path">
+						<Value>Telerik.XamarinForms.Primitives\Telerik.XamarinForms.Primitives.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://Telerik.XamarinForms.Primitives/Files/Telerik.XamarinForms.Primitives/Themes/Generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
