@@ -20,22 +20,23 @@ xmlns:telerikInput="clr-namespace:Telerik.XamarinForms.Input;assembly=Telerik.Xa
                     <RowDefinition Height="10*" />
                     <RowDefinition Height="20*" />
                 </Grid.RowDefinitions>
-                <telerikInput:RadShapeRating ItemShape="{x:Static telerikInput:Geometries.Star}" x:Name="rating"/>
+                
                 <Image x:Name="logo" Margin="20,20,20,20"
-                        BackgroundColor="Snow"
+                        BackgroundColor="Snow" Grid.Row="0"
                         HorizontalOptions="CenterAndExpand" 
-                        VerticalOptions="CenterAndExpand" 
+                        VerticalOptions="StartAndExpand" 
                         WidthRequest="200" 
-                        HeightRequest="60" />
-                <telerikInput:RadEntry x:Name="username" Grid.Row="1"                    
+                        HeightRequest="200" d:Margin="0,10,10,20" />
+                <telerikInput:RadShapeRating ItemShape="{x:Static telerikInput:Geometries.Star}" x:Name="rating" Grid.Row="1" />
+                <telerikInput:RadEntry x:Name="username" Grid.Row="2"                    
                     FontAttributes="Italic" TextColor="DarkGray" WatermarkText="Username " WatermarkTextColor="#6EA3FF" VerticalOptions="CenterAndExpand" 
                     HorizontalOptions="CenterAndExpand" />
-                <telerikInput:RadEntry x:Name="password" Grid.Row="2"
+                <telerikInput:RadEntry x:Name="password" Grid.Row="3"
                      FontAttributes="Italic" TextColor="DarkGray" IsPassword="True"  
                      VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
                 <telerikInput:RadButton x:Name="loginbtn" Padding="20,20,20,20"
                         Text="Logo" BorderColor="Snow" Clicked="loginClicked"
-                        BackgroundColor="MidnightBlue"
+                        BackgroundColor="MidnightBlue" Grid.Row="4"
                         TextColor="White"
                         BorderThickness="1" 
                         HorizontalContentAlignment="Center" 

@@ -17,10 +17,10 @@ namespace ParentApp.Views {
     public partial class Login : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Telerik.XamarinForms.Input.RadShapeRating rating;
+        private global::Xamarin.Forms.Image logo;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Xamarin.Forms.Image logo;
+        private global::Telerik.XamarinForms.Input.RadShapeRating rating;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private global::Telerik.XamarinForms.Input.RadEntry username;
@@ -34,8 +34,8 @@ namespace ParentApp.Views {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Login));
-            rating = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Telerik.XamarinForms.Input.RadShapeRating>(this, "rating");
             logo = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Image>(this, "logo");
+            rating = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Telerik.XamarinForms.Input.RadShapeRating>(this, "rating");
             username = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Telerik.XamarinForms.Input.RadEntry>(this, "username");
             password = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Telerik.XamarinForms.Input.RadEntry>(this, "password");
             loginbtn = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Telerik.XamarinForms.Input.RadButton>(this, "loginbtn");

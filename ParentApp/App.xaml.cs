@@ -10,7 +10,7 @@ namespace ParentApp
         {
             InitializeComponent();
 
-            MainPage = new Views.Login();
+            MainPage = new Views.LoginScreenSimple1.LoginScreenSimple1();
         }
 
         protected override void OnStart()
