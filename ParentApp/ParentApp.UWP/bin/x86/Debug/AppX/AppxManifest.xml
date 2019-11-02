@@ -146,14 +146,14 @@
   </Extensions>
   <build:Metadata>
     <build:Item Name="TargetFrameworkMoniker" Value=".NETCore,Version=v5.0" />
-    <build:Item Name="VisualStudio" Version="16.0" />
-    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Enterprise 2019" />
+    <build:Item Name="VisualStudio" Version="15.0" />
+    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Enterprise 2017" />
     <build:Item Name="OperatingSystem" Version="10.0.17763.1 (WinBuild.160101.0800)" />
-    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="16.0.29230.47" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="15.0.28307.104" />
     <build:Item Name="ProjectGUID" Value="{D841E17C-372C-422D-964F-B8BEE4F4CADC}" />
     <build:Item Name="OptimizingToolset" Value="None" />
     <build:Item Name="TargetRuntime" Value="Managed" />
-    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="16.0.29221.59" />
+    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="15.0.28307.102" />
     <build:Item Name="UseDotNetNativeSharedAssemblyFrameworkPackage" Value="true" />
     <build:Item Name="MakePri.exe" Version="10.0.16299.15 (WinBuild.160101.0800)" />
   </build:Metadata>

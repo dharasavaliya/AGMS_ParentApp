@@ -83,7 +83,7 @@
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\dhara\\AppData\\Roaming\\NuGet\\NuGet.Config",
